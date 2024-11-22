@@ -1,0 +1,6 @@
+requests
+pandas
+pybettor
+fastapi
+uvicorn
+docker
